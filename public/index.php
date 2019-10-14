@@ -22,8 +22,8 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="jquery-3.4.1.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="login/main.css">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="http://localhost/projects/Sollicitatie/public/login/main.css">
+    <link rel="stylesheet" href="http://localhost/projects/Sollicitatie/public/css/main.css">
     <title>Home</title>
 </head>
     <div class="page-header">

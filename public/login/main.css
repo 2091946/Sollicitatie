@@ -1,5 +1,6 @@
 body{
 	font: 14px sans-serif;
+	background-color: white;
 }
 
 .wrapper{
@@ -40,4 +41,44 @@ h1{
 
 h2{
 	text-align:center;
+}
+
+.wrapper{
+	width:600px;
+	margin-top:60px;
+	overflow:hidden;
+	border-radius: 10px;
+  	box-shadow: 0rem 0 1rem #000;
+}
+
+.profile{
+	float: left;
+	height: 350px;
+	text-align: center;
+	margin:0 auto;
+	padding-bottom:10px;
+	width:250px;
+	background-color:red;
+}
+
+.profile-extension{
+	background-color:white;
+	height: 350px;
+	width: 600px;
+}
+
+.profilepicture{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:150px;
+}
+
+.addfile{
+	padding-top:10px;
+	width:75px;
+}
+
+.showfile{
+	padding-top:10px;
+	width:75px;
 }
