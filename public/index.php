@@ -24,7 +24,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="login/main.css">
     <link rel="stylesheet" href="main.css">
-    <title>Document</title>
+    <title>Home</title>
 </head>
     <div class="page-header">
 		<h1>Hi, <b style="color:green;"><?php echo htmlspecialchars($_SESSION["username"]); ?>.<br></b> WIP Sollicitatie Systeem</h1>
@@ -39,6 +39,12 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
             <li>Create a system to upload job offers ( X )</li>
             <li>Style the pages ( X )</li>
         </ul>
+        <br>
+        <h4>Assignment:</h4>
+        <p>We need to create a website for bit where they can upload assignments for people as a way to apply for the job.<br>
+           It needs a loginsystem with a profile page and a way to upload files ofcourse. Bit also wants to see when someone<br>
+           has downloaded/uploaded files etc. There can only be uploaded when the after a certain date. 
+        </p>
 	</div>
 
 	<div class="footer">

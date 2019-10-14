@@ -23,7 +23,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="./login/main.css">
     <link rel="stylesheet" href="./css/main.css>">
-    <title>Joboffers</title>
+    <title>Test</title>
 </head>
 <body>
     

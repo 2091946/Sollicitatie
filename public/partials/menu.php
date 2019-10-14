@@ -17,6 +17,9 @@
       <li class="nav-item">
       	<a class="nav-link" href="http://localhost/projects/Sollicitatie/public/pages/profile.php">My Profile</a>
       </li>
+      <li class="nav-item">
+      	<a class="nav-link" href="http://localhost/projects/Sollicitatie/public/pages/test.php">Test</a>
+      </li>
         </div>
       </li>
   </div>
